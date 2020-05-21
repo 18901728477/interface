@@ -1,0 +1,104 @@
+{
+  "01": {
+    "mobile_erreor": {
+      "mobile": "13900000002",
+      "password": "123456"
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "02": {
+    "password_error": {
+      "mobile": "13800000002",
+      "password": "error"
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "03": {
+    "no_mobile": {
+      "mobile": "",
+      "password": "error"
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "04": {
+    "ts_mobile": {
+      "mobile": "138(0000002",
+      "password": "123456"
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "05": {
+    "no_password": {
+      "mobile": "13800000002",
+      "password": ""
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "06": {
+    "more_params": {
+      "mobile": "13800000002",
+      "password": "123456",
+      "more_params": "123"
+    },
+    "httpcode": 200,
+    "success": true,
+    "code": 10000,
+    "message": "操作成功！"
+  },
+  "07": {
+    "null_mobile": {
+      "password": "123456"
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "08": {
+    "ihrm_login_data": {
+      "mobile": "13800000002"
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "09": {
+    "null": {},
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "10": {
+    "null_password": {
+      "mboile": "13800000002"
+    },
+    "httpcode": 200,
+    "success": false,
+    "code": 20001,
+    "message": "用户名或密码错误"
+  },
+  "11": {
+    "input_null": null,
+    "httpcode": 200,
+    "success": false,
+    "code": 99999,
+    "message": "抱歉，系统繁忙，请稍后重试！"
+  }
+}

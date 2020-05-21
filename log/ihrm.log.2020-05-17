@@ -1,0 +1,45 @@
+%(asctime)s %(levelname)s [%(name)s] [%(filename)s(%(funcName)s:%(lineno)d)] -%(message)s
+%(asctime)s %(levelname)s [%(name)s] [%(filename)s(%(funcName)s:%(lineno)d)] -%(message)s
+%(asctime)s %(levelname)s [%(name)s] [%(filename)s(%(funcName)s:%(lineno)d)] -%(message)s
+2020-05-17 10:48:06,033 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 11:52:56,172 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:31:47,513 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:32:29,960 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:32:36,583 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:33:02,137 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:41:00,230 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:43:40,306 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:44:26,748 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 14:50:25,145 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:01:15,412 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:01:41,309 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:02:36,906 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:03:06,762 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:03:15,418 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:03:31,577 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:04:23,324 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:04:27,426 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:09:03,648 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:09:19,102 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:23:45,704 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:32:04,847 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:37:05,315 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:37:38,681 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:40:10,183 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:40:57,426 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:44:08,727 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:44:51,600 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:48:41,994 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:49:57,062 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:50:49,256 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:52:59,162 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 15:55:51,225 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 17:30:25,468 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 17:47:44,338 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 17:48:51,943 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 17:52:12,571 INFO [root] [__init__.py(<module>:8)] -测试日志是否会打印!
+2020-05-17 17:52:12,824 INFO [root] [test_ihrm_employee.py(test01_employee_manage:25)] -{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '22eece97-c91f-4612-8f04-2db3637dcaba'}
+2020-05-17 17:52:12,904 INFO [root] [test_ihrm_employee.py(test01_employee_manage:32)] -{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1261957760220659712'}}
+2020-05-17 17:52:12,987 INFO [root] [test_ihrm_employee.py(test01_employee_manage:39)] -{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1261957760220659712', 'mobile': '1858888995920205217170512', 'username': '狗子20205217170512', 'password': '1b2292dc0638f8355bdf641e8e17b57a', 'enableState': 1, 'createTime': None, 'companyId': '1', 'companyName': '传智播客', 'departmentId': '1063678149528784896', 'timeOfEntry': '2020-05-05T00:00:00.000+0000', 'formOfEmployment': 1, 'workNumber': '123488', 'formOfManagement': None, 'workingCity': None, 'correctionTime': '2020-05-17T16:00:00.000+0000', 'inServiceStatus': None, 'departmentName': '测试部', 'roleIds': [], 'staffPhoto': None}}
+2020-05-17 17:52:13,067 INFO [root] [test_ihrm_employee.py(test01_employee_manage:43)] -{'success': True, 'code': 10000, 'message': '操作成功！', 'data': {'id': '1261957760220659712'}}
+2020-05-17 17:52:13,144 INFO [root] [test_ihrm_employee.py(test01_employee_manage:46)] -{'success': True, 'code': 10000, 'message': '操作成功！', 'data': None}
